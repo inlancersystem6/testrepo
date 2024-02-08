@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-x3n3nnut.js";import{o as e,c as s}from"./index-rUHQi0PA.js";const t={},c={class:"overlay"};function r(a,_,n,p,d,f){return e(),s("div",c)}const l=o(t,[["render",r],["__scopeId","data-v-398f1470"]]);export{l as O};
