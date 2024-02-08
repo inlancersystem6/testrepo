@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-c27b6911.js";import{o,d as _,t as a}from"./index-78b395c4.js";const s={props:{label:String}},n=["for"];function r(c,l,e,d,p,i){return o(),_("label",{for:e.label},a(e.label),9,n)}const m=t(s,[["render",r],["__scopeId","data-v-997d1be0"]]);export{m as L};
