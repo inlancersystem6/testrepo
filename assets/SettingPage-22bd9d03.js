@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-c27b6911.js";import{o as s,c as o,y as r}from"./index-31e5b7a2.js";const n={},a={class:"setting-pages-grid"};function c(e,i,p,_,d,f){return s(),o("div",a,[r(e.$slots,"default")])}const g=t(n,[["render",c]]);export{g as S};
