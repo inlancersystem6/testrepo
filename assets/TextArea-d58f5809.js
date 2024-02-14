@@ -1,0 +1,1 @@
+import{_ as t,o as a,c}from"./index-5d175349.js";const _={props:{placeholder:String,value:String,id:String}},o=["placeholder","value","id"];function d(l,n,e,r,s,i){return a(),c("textarea",{placeholder:e.placeholder,value:e.value,id:e.id,class:"input-1"},null,8,o)}const u=t(_,[["render",d],["__scopeId","data-v-dd6b1729"]]);export{u as T};

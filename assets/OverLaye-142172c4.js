@@ -1,0 +1,1 @@
+import{_ as e,o as _,c as o}from"./index-5d175349.js";const s={},t={class:"overlay"};function c(a,n,r,p,d,f){return _(),o("div",t)}const l=e(s,[["render",c],["__scopeId","data-v-398f1470"]]);export{l as O};

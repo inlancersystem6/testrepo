@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as o,y as n}from"./index-5d175349.js";const r={},a={class:"setting-pages-grid"};function c(e,_,i,p,d,l){return t(),o("div",a,[n(e.$slots,"default")])}const g=s(r,[["render",c]]);export{g as S};
