@@ -1,1 +1,0 @@
-import{_ as t,o as n,c}from"./index-5d175349.js";const _={props:{placeholder:String,value:String,id:String}},a=["placeholder","value","id"];function o(l,s,e,r,d,p){return n(),c("input",{type:"text",placeholder:e.placeholder,value:e.value,id:e.id,class:"input-1"},null,8,a)}const u=t(_,[["render",o],["__scopeId","data-v-12444b14"]]);export{u as I};

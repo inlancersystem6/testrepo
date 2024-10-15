@@ -1,1 +1,0 @@
-import{_ as a,o as t,c as o,d as s,t as _,i as r}from"./index-5d175349.js";const c={props:{label:String,required:Boolean}},n=["for"],l={key:0,class:"text-rose"};function d(i,p,e,u,f,b){return t(),o("label",{for:e.label},[s(_(e.label)+" ",1),e.required?(t(),o("span",l,"*")):r("",!0)],8,n)}const x=a(c,[["render",d],["__scopeId","data-v-08014040"]]);export{x as L};
