@@ -1,3 +1,8 @@
 
 /django/venv
 /django/demo_app/migrations
+/alembic/versions
+/venv
+/django/demo_app/__pycache__
+.pyc
+django/demo_app/__pycache__/apps.cpython-311.pyc
