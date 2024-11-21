@@ -1,3 +1,3 @@
 
-/alembic/versions
-/venv
+/django/venv
+/django/demo_app/migrations
