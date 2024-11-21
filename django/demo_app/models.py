@@ -8,7 +8,6 @@ class UserRole(models.Model):
     role_status         =       models.BooleanField()
     role_created_at     =       models.DateTimeField(auto_created=True)
     role_is_delete      =       models.BooleanField(default=0)
-    role_updated_at     =       models.DateTimeField(auto_now_add=True)
 
     class Meta:
         db_table = 'userrole'
@@ -17,6 +16,7 @@ class UserRole(models.Model):
 class Module(models.Model):
     module_id = models.AutoField(primary_key=True)
     module_name = models.CharField(max_length=50)
+    module_new_field = models.CharField(max_length=50, null=True)
 
     class Meta:
         db_table = "module"
